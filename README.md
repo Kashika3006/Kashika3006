@@ -34,11 +34,5 @@ BCA student at IGNOU → self-taught data scientist who learns by building. I ca
   <img src="https://streak-stats.demolab.com?user=kashika3006&theme=tokyonight&hide_border=true" />
 </p>
 
-### 📈 Contribution activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kashika3006&theme=tokyo-night&hide_border=true" width="100%" />
-
-### 🐍 Contribution snake
-<img src="https://raw.githubusercontent.com/kashika3006/kashika3006/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
 ### 📫 Let's talk
 [Portfolio](https://kashika3006.github.io/kashika-portfolio-website/) · [LinkedIn](https://www.linkedin.com/in/kashika-b8813222b/)
